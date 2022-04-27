@@ -1,4 +1,4 @@
-import 'package:arrr/themes/lulz_theme.dart';
+import '../themes/lulz_theme.dart';
 import 'package:flutter/material.dart';
 
 part '../arrr.dart';
