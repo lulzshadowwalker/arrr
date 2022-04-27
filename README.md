@@ -1,16 +1,54 @@
 # arrr
 
-A new Flutter project.
+Basic Flutter Template built with `GetX` as a state management solution in mind.
 
-## Getting Started
+## TABLE OF CONTENTS
 
-This project is a starting point for a Flutter application.
+- [What you get](#what-you-get)
 
-A few resources to get you started if this is your first Flutter project:
+- [Installation](#installation) 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Notes](#notes)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Suggested git commit conventions](#suggested-git-commit-conventions)
+
+## WHAT YOU GET
+
+- Basic Material-based app setup
+
+- preset folder structure
+  
+  > ![arr folder structure](https://user-images.githubusercontent.com/92385434/165495770-19799994-dc32-4538-8274-015afeaaed7d.png)
+
+## Installation
+
+- ```git
+  git clone git@github.com:lulzshadowwalker/arrr.git
+  ```
+
+- ```dart
+  flutter pub get
+  ```
+
+- ```dart
+  /// change package name using ( https://pub.dev/packages/change_app_package_name )
+  flutter pub run change_app_package_name:main com.new.package.name
+  ```
+
+## NOTES
+
+- Beware of pre-included linked files ( part, part of ) if you were to declare private fields.
+
+- It uses the default text styles and expects the mockup to be based on the standard Flutter text styles.
+
+## SUGGESTED GIT COMMIT CONVENTION
+
+- 🚀 FEAT
+
+- 🧼 REFACTOR
+
+- 🐞 BUG
+
+- 👨🏻‍🏭 WIP
+
+- 👶🏻 INIT
