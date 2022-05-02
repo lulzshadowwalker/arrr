@@ -5,7 +5,7 @@ class Arrr extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return GetMaterialApp(
       title: 'Arrr',
       home: const MHome(),
       debugShowCheckedModeBanner: false,

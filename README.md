@@ -35,6 +35,8 @@ Basic Flutter Template built with `GetX` as a state management solution in mind.
   flutter pub run change_app_package_name:main com.new.package.name
   ```
 
+- replace all 'arrr' occurrences with the new project name.
+
 ## NOTES
 
 - Beware of pre-included linked files ( part, part of ) if you were to declare private fields.
