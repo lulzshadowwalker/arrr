@@ -16,9 +16,10 @@ Basic Flutter Template built with `GetX` as a state management solution in mind.
 
 - Basic Material-based app setup
 
-- preset folder structure
+- preset folder structure ( MVC )
   
-  > ![arr folder structure](https://user-images.githubusercontent.com/92385434/165495770-19799994-dc32-4538-8274-015afeaaed7d.png)
+  > ![Arrr folder structure](https://user-images.githubusercontent.com/92385434/173185882-0bb0a782-887c-4b1e-854e-fd34097b4fa8.png)
+
 
 ## Installation
 

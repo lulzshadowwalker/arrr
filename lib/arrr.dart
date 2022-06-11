@@ -7,7 +7,7 @@ class Arrr extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       title: 'Arrr',
-      home: const MHome(),
+      home: const Home(),
       debugShowCheckedModeBanner: false,
       theme: LulzTheme.light,
       darkTheme: LulzTheme.dark,
