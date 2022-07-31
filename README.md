@@ -48,7 +48,7 @@ Basic Flutter Template built with `GetX` as a state management solution in mind.
 
 - 🚀 FEAT
 
-- 🧼 REFACTOR
+- 🧼 REFACTOR + MOD
 
 - 🐞 BUG
 
