@@ -40,8 +40,6 @@ Basic Flutter Template built with `GetX` as a state management solution in mind.
 
 ## NOTES
 
-- Beware of pre-included linked files ( part, part of ) if you were to declare private fields.
-
 - It uses the default text styles and expects the mockup to be based on the standard Flutter text styles.
 
 ## SUGGESTED GIT COMMIT CONVENTION
