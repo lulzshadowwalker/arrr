@@ -1,5 +1,4 @@
-part of '../helpers/lulz_imports.dart';
-
+import 'package:flutter/material.dart';
 class LulzColors {
   /// #FFFFFF -> FFFFFF
   static Color colorFromHex(String hexColor, [String opacity = 'FF']) {
