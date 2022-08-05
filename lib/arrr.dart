@@ -1,4 +1,9 @@
-part of './helpers/lulz_imports.dart';
+
+import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+
+import 'themes/lulz_theme.dart';
+import 'views/home/home.dart';
 
 class Arrr extends StatelessWidget {
   const Arrr({Key? key}) : super(key: key);

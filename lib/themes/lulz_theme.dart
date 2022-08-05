@@ -37,7 +37,7 @@ class LulzTheme {
   //
   static ThemeData get light {
     Color textColor = Colors.black;
-    return ThemeData.dark().copyWith(
+    return ThemeData.light().copyWith(
       /// * text theme
       textTheme: _textTheme.apply(
         bodyColor: textColor,
